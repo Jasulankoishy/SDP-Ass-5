@@ -140,4 +140,4 @@ The project requires JDK 17 or newer and no additional libraries. Build and run 
 
 ## 6. GitHub repository
 
-Repository URL: REPLACE_WITH_YOUR_ACTUAL_GITHUB_REPOSITORY_URL
+Repository URL: https://github.com/Jasulankoishy/SDP-Ass-5

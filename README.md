@@ -67,4 +67,6 @@ System.out.println(calculator.calculate(12, 4)); // 3.0
 
 ## Submission
 
-Upload the project to your own GitHub repository. Replace the repository placeholder in `REPORT.md` with its actual URL. Submit `REPORT.md` and the repository link to Moodle. The supplied program uses `double` and is a basic arithmetic demonstration, not a financial calculator.
+Repository: https://github.com/Jasulankoishy/SDP-Ass-5
+
+Submit `REPORT.md` and the repository link to Moodle. The supplied program uses `double` and is a basic arithmetic demonstration, not a financial calculator.
